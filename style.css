@@ -1,0 +1,33 @@
+.invisible {
+    display: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.body {
+    background-image: url("../images/background.svg");
+    background-size: cover;
+    background-attachment: fixed;
+  /* width: 100vw; */
+}
+
+.is-size-one {
+    font-size: 28px;
+}
+
+.container {
+    background-color: rgba(255,255,255,0.75);
+}
+
+
+.columns {
+    margin:0 0;
+}
+/* 
+.button {
+    float: left;
+    margin-left: 5px;
+} */
+
